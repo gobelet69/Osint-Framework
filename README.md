@@ -49,6 +49,7 @@ A curated collection of tools and resources for Open Source Intelligence (OSINT)
 
 ### 6. Google Dorks
 - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database) - Predefined Google search queries to find sensitive information.
+- [Dork Generator](https://yuraloginoff.github.io/dork-generator/) - Generate Google dorks for specific queries.
 
 
 
@@ -63,6 +64,7 @@ A curated collection of tools and resources for Open Source Intelligence (OSINT)
 ### 8. Advanced Search
 - [X Advanced Search](https://x.com/search-advanced) - Search engine for social media (formerly Twitter).
 - [Web Archive](https://web.archive.org/) - View archived versions of websites.
+- [Google Advanced Search](https://www.google.com/advanced_search) - Fine-tune search queries for better results.
 
 
 
@@ -72,6 +74,13 @@ A curated collection of tools and resources for Open Source Intelligence (OSINT)
 - [IDA Free](https://hex-rays.com/ida-free/) - Interactive Disassembler for reverse engineering.
 - [Dogbolt](https://dogbolt.org/) - Online compiler explorer.
 - [Hex Editor](https://hexed.it/) - Analyze and edit binary files.
+
+
+
+### Other Frameworks
+- [Bellingcat OSINT Toolkit](https://bellingcat.gitbook.io/toolkit) - Comprehensive OSINT guide and tools.
+- [OSINT Framework](https://osintframework.com/) - Categorized collection of OSINT tools.
+
 
 ---
 
