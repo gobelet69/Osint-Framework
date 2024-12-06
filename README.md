@@ -6,7 +6,12 @@ A curated collection of tools and resources for Open Source Intelligence (OSINT)
 
 ## Categories
 
-### 1. Name Search
+### 1. People Finder
+- [Hunter.io](https://hunter.io/find) - Find email addresses.
+- [Maltego](https://www.maltego.com/) - Graphical link analysis tool.
+- [Epieos](https://epieos.com/) - Search people by email and other identifiers.
+- [Prospeo](https://prospeo.io/domain-search) - Domain-based people search.
+- [Osintgram](https://github.com/Datalux/Osintgram) - Instagram analysis and scraping.
 - [What's My Name](https://whatsmyname.app/) - Identify usernames across multiple platforms.
 - [Sherlock](https://github.com/sherlock-project/sherlock) - Find social media accounts by username.
 
@@ -55,22 +60,13 @@ A curated collection of tools and resources for Open Source Intelligence (OSINT)
 
 
 
-### 8. People Finder
-- [Hunter.io](https://hunter.io/find) - Find email addresses.
-- [Maltego](https://www.maltego.com/) - Graphical link analysis tool.
-- [Epieos](https://epieos.com/) - Search people by email and other identifiers.
-- [Prospeo](https://prospeo.io/domain-search) - Domain-based people search.
-- [Osintgram](https://github.com/Datalux/Osintgram) - Instagram analysis and scraping.
-
-
-
-### 9. Advanced Search
+### 8. Advanced Search
 - [X Advanced Search](https://x.com/search-advanced) - Search engine for social media (formerly Twitter).
 - [Web Archive](https://web.archive.org/) - View archived versions of websites.
 
 
 
-### 10. File Analysis & Reverse Engineering
+### 9. File Analysis & Reverse Engineering
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Analyze and extract data from binary files.
 - [Ghidra](https://ghidra-sre.org/) - Open-source software reverse engineering suite.
 - [IDA Free](https://hex-rays.com/ida-free/) - Interactive Disassembler for reverse engineering.
