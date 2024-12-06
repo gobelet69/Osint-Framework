@@ -50,6 +50,7 @@ A curated collection of tools and resources for Open Source Intelligence (OSINT)
 ### 6. Google Dorks
 - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database) - Predefined Google search queries to find sensitive information.
 - [Dork Generator](https://yuraloginoff.github.io/dork-generator/) - Generate Google dorks for specific queries.
+- [DorkGenius](https://dorkgenius.com/) - Another tool for generating Google dorks.
 
 
 
