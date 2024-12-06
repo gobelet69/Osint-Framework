@@ -82,7 +82,6 @@ Feel free to submit new tools or improvements by opening a pull request or creat
 
 ### Credits
 Created by **Gobelet**. Inspired by countless hours of OSINT investigations and tool discoveries.
-"""
 
 
 Osint4Ever
