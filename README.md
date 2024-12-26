@@ -1,3 +1,4 @@
+
 # Gobelet's OSINT Framework
 
 A curated collection of tools and resources for Open Source Intelligence (OSINT). This framework is organized into categories to help streamline investigations.
@@ -12,23 +13,29 @@ A curated collection of tools and resources for Open Source Intelligence (OSINT)
 - [Epieos](https://epieos.com/) - Search people by email and other identifiers.
 - [Prospeo](https://prospeo.io/domain-search) - Domain-based people search.
 - [Osintgram](https://github.com/Datalux/Osintgram) - Instagram analysis and scraping.
+- [Instaloader](https://github.com/instaloader/instaloader) - Download and analyze Instagram profiles.
 - [What's My Name](https://whatsmyname.app/) - Identify usernames across multiple platforms.
 - [Sherlock](https://github.com/sherlock-project/sherlock) - Find social media accounts by username.
+- [Who Posted What?](https://whopostedwhat.com/) - Facebook post search engine.
+- [Bellingcat Name Variant Search](https://bellingcat.github.io/name-variant-search) - Explore name variations across different languages and scripts.
 
-
+---
 
 ### 2. Web Analysis
 - [Web Check](https://web-check.xyz/) - Analyze websites for OSINT.
+- [Talos Intelligence](https://talosintelligence.com/) - Domain and IP reputation lookup.
 
-
+---
 
 ### 3. Image Search
 - [TinEye](https://tineye.com/) - Reverse image search.
 - [Google Images](https://images.google.com/?hl=fr) - Standard reverse image search.
 - [Yandex Images](https://yandex.com/images/) - Powerful reverse image search with global reach.
 - [PimEyes](https://pimeyes.com/en) - Face search engine for finding similar faces.
+- [Search by Image (Chrome Extension)](https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci) - Reverse image search directly from the browser.
+- [Picuki](https://www.picuki.com/) - Explore and search Instagram content.
 
-
+---
 
 ### 4. Image Analysis
 - [Photopea](https://www.photopea.com/) - Online photo editing and analysis.
@@ -37,22 +44,23 @@ A curated collection of tools and resources for Open Source Intelligence (OSINT)
 - [Hex Editor](https://hexed.it/) - Inspect image files at the binary level.
 - [Jimpl](https://jimpl.com/) - Simplified image analysis.
 
-
+---
 
 ### 5. Localization Search
 - [Overpass Turbo](https://overpass-turbo.eu/index.html) - Query OpenStreetMap data for geospatial analysis.
 - [Google Maps](https://www.google.com/maps) - Explore and investigate locations.
 - [Google Earth Pro](https://www.google.com/earth/) - Advanced geospatial analysis.
 - [Osintgram](https://github.com/Datalux/Osintgram) - OSINT tool for Instagram data extraction.
+- [SOW Search](https://www.sowsearch.info/) - Investigate and query local map data for OSINT purposes.
 
-
+---
 
 ### 6. Google Dorks
 - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database) - Predefined Google search queries to find sensitive information.
 - [Dork Generator](https://yuraloginoff.github.io/dork-generator/) - Generate Google dorks for specific queries.
 - [DorkGenius](https://dorkgenius.com/) - Another tool for generating Google dorks.
 
-
+---
 
 ### 7. Cryptography
 - [CyberChef](https://gchq.github.io/CyberChef/) - A Swiss army knife for data manipulation.
@@ -60,14 +68,14 @@ A curated collection of tools and resources for Open Source Intelligence (OSINT)
 - [OpenSSL](https://www.openssl.org/) - Toolkit for SSL/TLS and cryptography.
 - Cryptocrack - Software for breaking ciphers.
 
-
+---
 
 ### 8. Advanced Search
 - [X Advanced Search](https://x.com/search-advanced) - Search engine for social media (formerly Twitter).
 - [Web Archive](https://web.archive.org/) - View archived versions of websites.
 - [Google Advanced Search](https://www.google.com/advanced_search) - Fine-tune search queries for better results.
 
-
+---
 
 ### 9. File Analysis & Reverse Engineering
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Analyze and extract data from binary files.
@@ -76,22 +84,14 @@ A curated collection of tools and resources for Open Source Intelligence (OSINT)
 - [Dogbolt](https://dogbolt.org/) - Online compiler explorer.
 - [Hex Editor](https://hexed.it/) - Analyze and edit binary files.
 
-
-
-### Other Frameworks
-- [Bellingcat OSINT Toolkit](https://bellingcat.gitbook.io/toolkit) - Comprehensive OSINT guide and tools.
-- [OSINT Framework](https://osintframework.com/) - Categorized collection of OSINT tools.
-
-
 ---
 
 ## Contribution
 Feel free to submit new tools or improvements by opening a pull request or creating an issue. This framework is ever-evolving!
 
+---
 
-
-### Credits
+## Credits
 Created by **Gobelet**. Inspired by countless hours of OSINT investigations and tool discoveries.
-
 
 Osint4Ever
