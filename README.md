@@ -86,6 +86,12 @@ A curated collection of tools and resources for Open Source Intelligence (OSINT)
 
 ---
 
+### Other Frameworks
+- [Bellingcat OSINT Toolkit](https://bellingcat.gitbook.io/toolkit) - Comprehensive OSINT guide and tools.
+- [OSINT Framework](https://osintframework.com/) - Categorized collection of OSINT tools.
+
+---
+
 ## Contribution
 Feel free to submit new tools or improvements by opening a pull request or creating an issue. This framework is ever-evolving!
 
