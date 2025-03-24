@@ -7,23 +7,15 @@ A curated collection of tools and resources for Open Source Intelligence (OSINT)
 
 ## Categories
 
-### 1. People Finder
-- [Hunter.io](https://hunter.io/find) - Find email addresses.
-- [Maltego](https://www.maltego.com/) - Graphical link analysis tool.
-- [Epieos](https://epieos.com/) - Search people by email and other identifiers.
-- [Prospeo](https://prospeo.io/domain-search) - Domain-based people search.
-- [Osintgram](https://github.com/Datalux/Osintgram) - Instagram analysis and scraping.
-- [Instaloader](https://github.com/instaloader/instaloader) - Download and analyze Instagram profiles.
+### 1. Name Search
 - [What's My Name](https://whatsmyname.app/) - Identify usernames across multiple platforms.
 - [Sherlock](https://github.com/sherlock-project/sherlock) - Find social media accounts by username.
-- [Who Posted What?](https://whopostedwhat.com/) - Facebook post search engine.
-- [Bellingcat Name Variant Search](https://bellingcat.github.io/name-variant-search) - Explore name variations across different languages and scripts.
+- [IntelTechniques Username Search](https://inteltechniques.com/tools/Username.html) - Search for usernames across various platforms.
 
 ---
 
 ### 2. Web Analysis
 - [Web Check](https://web-check.xyz/) - Analyze websites for OSINT.
-- [Talos Intelligence](https://talosintelligence.com/) - Domain and IP reputation lookup.
 
 ---
 
@@ -32,8 +24,6 @@ A curated collection of tools and resources for Open Source Intelligence (OSINT)
 - [Google Images](https://images.google.com/?hl=fr) - Standard reverse image search.
 - [Yandex Images](https://yandex.com/images/) - Powerful reverse image search with global reach.
 - [PimEyes](https://pimeyes.com/en) - Face search engine for finding similar faces.
-- [Search by Image (Chrome Extension)](https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci) - Reverse image search directly from the browser.
-- [Picuki](https://www.picuki.com/) - Explore and search Instagram content.
 
 ---
 
@@ -51,7 +41,6 @@ A curated collection of tools and resources for Open Source Intelligence (OSINT)
 - [Google Maps](https://www.google.com/maps) - Explore and investigate locations.
 - [Google Earth Pro](https://www.google.com/earth/) - Advanced geospatial analysis.
 - [Osintgram](https://github.com/Datalux/Osintgram) - OSINT tool for Instagram data extraction.
-- [SOW Search](https://www.sowsearch.info/) - Investigate and query local map data for OSINT purposes.
 
 ---
 
@@ -70,14 +59,24 @@ A curated collection of tools and resources for Open Source Intelligence (OSINT)
 
 ---
 
-### 8. Advanced Search
+### 8. People Finder
+- [Hunter.io](https://hunter.io/find) - Find email addresses.
+- [Maltego](https://www.maltego.com/) - Graphical link analysis tool.
+- [Epieos](https://epieos.com/) - Search people by email and other identifiers.
+- [Prospeo](https://prospeo.io/domain-search) - Domain-based people search.
+- [Osintgram](https://github.com/Datalux/Osintgram) - Instagram analysis and scraping.
+- [emailGuesser](https://github.com/WhiteHatInspector/emailGuesser) - Tool to guess possible email addresses based on name patterns.
+
+---
+
+### 9. Advanced Search
 - [X Advanced Search](https://x.com/search-advanced) - Search engine for social media (formerly Twitter).
 - [Web Archive](https://web.archive.org/) - View archived versions of websites.
 - [Google Advanced Search](https://www.google.com/advanced_search) - Fine-tune search queries for better results.
 
 ---
 
-### 9. File Analysis & Reverse Engineering
+### 10. File Analysis & Reverse Engineering
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Analyze and extract data from binary files.
 - [Ghidra](https://ghidra-sre.org/) - Open-source software reverse engineering suite.
 - [IDA Free](https://hex-rays.com/ida-free/) - Interactive Disassembler for reverse engineering.
@@ -97,7 +96,5 @@ Feel free to submit new tools or improvements by opening a pull request or creat
 
 ---
 
-## Credits
+### Credits
 Created by **Gobelet**. Inspired by countless hours of OSINT investigations and tool discoveries.
-
-Osint4Ever
